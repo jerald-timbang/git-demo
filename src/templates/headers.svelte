@@ -8,7 +8,7 @@
 <body>
     <!-- Changed by jerald -->
      <p>
-        welcome evami!
+        Greetings evami!
      </p>
 </body>
 </html>
