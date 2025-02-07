@@ -8,7 +8,7 @@
 <body>
     <!-- Changed by jerald -->
      <p>
-        Greetings evami!
+        Greetings gwapo!
      </p>
 </body>
 </html>
